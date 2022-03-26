@@ -78,4 +78,4 @@ According to a survey ( ) by a major bank, an increasing number of
 people are worried about not having enough money in the future.
 
 - 1 taking 2 to be taken 3 taken 4 to have taken
-1. 大手銀行の調査によると、将来的にお金が足りなくなるのではないかと心配する人が増えている。  
+1. 大手銀行の調査によると、将来的にお金が足りなくなるのではないかと心配する人が増えている。
