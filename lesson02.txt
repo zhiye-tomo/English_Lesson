@@ -1,6 +1,0 @@
-* xxx 2
-Sally's French teacher told her to read an article in a French newspaper and () it into English
-1,guide 2,throw 3,control 4,translate
-
-サリーのフランス人教師は、フランスの新聞の記事を読んで（）それを英語にするように彼女に言いました
-1,ガイド 2,投げる 3,コントロール 4,翻訳
